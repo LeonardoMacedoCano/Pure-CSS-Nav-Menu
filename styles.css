@@ -62,3 +62,10 @@ body {
 .nav li:hover i {
  	background: #ed1c24;
 }
+
+.central-title {
+	font-size: 28px;
+	text-align: center;
+	padding-top: calc(50vh - 28px);
+	font-family: "Roboto Slab", serif;
+}
