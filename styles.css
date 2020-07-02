@@ -54,3 +54,7 @@ body {
 	z-index: 1;
 	background: #ed1c24;
 }
+
+.nav li:hover > div {
+ 	display: inline-block;
+}
